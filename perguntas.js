@@ -6,8 +6,8 @@ criaCartao(
 //Luiz Eduardo Almeida Mororo 3D 24/11/2024
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Qual a capital da Austrália?',
+    'Por incrível que pareça, a capital não é Sidney e sim Camberra'
 )
 
 criaCartao(
